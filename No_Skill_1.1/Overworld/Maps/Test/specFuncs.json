@@ -1,0 +1,1 @@
+[{"x":2,"y":0,"funcString":"function() {\n  player.overworld.x = 0;\n  player.overworld.y = 0;\n}"}]
