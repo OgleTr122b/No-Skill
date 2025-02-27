@@ -24,7 +24,7 @@ function showCreditMenuButtons() {
 }
 
 function initializeCreditMenu() {
-  creditMenuButtons.push(new BasicMenuButton(-800, 0, 1600, 200, "Literally Everything --- Sabion Clarke", function() {
+  creditMenuButtons.push(new BasicMenuButton(-800, 0, 1600, 200, "Literally Everything --- S. Clarke", function() {
     
   }));
   
